@@ -1,3 +1,5 @@
+clear all;
+
 figure;
 
 t = 0:.01:2*pi;

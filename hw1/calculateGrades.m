@@ -1,3 +1,5 @@
+clear all;
+
 load classGrades.mat;
 disp(namesAndGrades(1:5, :));
 

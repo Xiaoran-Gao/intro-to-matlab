@@ -1,3 +1,5 @@
+clear all;
+
 original = 'This is my top secret message!';
 
 encodingVec = randperm(length(original));

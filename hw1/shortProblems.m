@@ -1,3 +1,5 @@
+clear all;
+
 % Problem 1
 a = 10;
 b = 2.5 * 10e23;
